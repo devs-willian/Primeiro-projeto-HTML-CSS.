@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,500..800;1,300..900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Figtree", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.card {
+    border-radius: 30px;
+    width: 400px;
+    border: 1px solid hsl(0, 0%, 7%);
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    box-shadow: 7px 7px 0px hsl(0, 0%, 7%);
+    
+    
+}
+.img-page {
+    width: 100%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+     
+}
+.img-page img {
+    max-width: 100%; 
+    height: auto;
+}
+.caixa{
+   
+    background-color: hsl(47, 88%, 63%);
+    padding: 7px 20px; 
+    margin-top: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    font-weight: bold;
+}
+.date-publicaçao{
+    font-size: 12px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.title-page{ 
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.text-page{
+    margin-top: 20px;
+    color: hsl(0, 0%, 42%);
+    font-size: 16px; 
+}
+.avatar{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+  
+}
+.img-avatar{
+    width: 30px;
+    margin-right: 10px; 
+}
+.text-avatar{
+    font-weight:bold;
+}
