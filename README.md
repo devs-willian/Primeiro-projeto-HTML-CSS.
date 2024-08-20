@@ -28,7 +28,7 @@ Este projeto é uma página web simples que apresenta um card com informações 
 
 ## Autor
 
-- **DEV_WILLIAN** - *Desenvolvedor Web*
+- **DEV_WILLIAN** 
 
 ## Licença
 
