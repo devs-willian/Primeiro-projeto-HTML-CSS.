@@ -28,7 +28,7 @@ Este projeto é uma página web simples que apresenta um card com informações 
 
 ## Autor
 
-- **Greg Hooper** - *Desenvolvedor Web*
+- **DEV_WILLIAN** - *Desenvolvedor Web*
 
 ## Licença
 
